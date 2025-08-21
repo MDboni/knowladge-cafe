@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://picsum.photos/800/400?random=1",
+    "profile_img": "https://i.pravatar.cc/150?img=1",
+    "author_name": "Sarah Johnson",
+    "author_date": "2025-08-20",
+    "author_read_time": 6,
+    "heading": "Mastering React State Management in 2025",
+    "tag": "React"
+  },
+  {
+    "id": 2,
+    "cover_img": "https://picsum.photos/800/400?random=2",
+    "profile_img": "https://i.pravatar.cc/150?img=2",
+    "author_name": "David Kim",
+    "author_date": "2025-08-18",
+    "author_read_time": 4,
+    "heading": "10 Proven Tips for Learning JavaScript Fast",
+    "tag": "JavaScript"
+  },
+  {
+    "id": 3,
+    "cover_img": "https://picsum.photos/800/400?random=3",
+    "profile_img": "https://i.pravatar.cc/150?img=3",
+    "author_name": "Emily Carter",
+    "author_date": "2025-08-15",
+    "author_read_time": 5,
+    "heading": "How to Build a Full-Stack MERN Application",
+    "tag": "Full-Stack"
+  },
+  {
+    "id": 4,
+    "cover_img": "https://picsum.photos/800/400?random=4",
+    "profile_img": "https://i.pravatar.cc/150?img=4",
+    "author_name": "Michael Brown",
+    "author_date": "2025-08-12",
+    "author_read_time": 7,
+    "heading": "Exploring Next.js 15 Features You Should Know",
+    "tag": "Next.js"
+  },
+  {
+    "id": 5,
+    "cover_img": "https://picsum.photos/800/400?random=5",
+    "profile_img": "https://i.pravatar.cc/150?img=5",
+    "author_name": "Sophia Lee",
+    "author_date": "2025-08-10",
+    "author_read_time": 3,
+    "heading": "Tailwind CSS Tricks for Modern UI Design",
+    "tag": "CSS"
+  }
+]
